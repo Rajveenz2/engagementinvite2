@@ -61,8 +61,11 @@ html{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap:2vh;
     text-align: center;
-    padding: 1vw;
+    width:50%;
+    padding: 3vw;
+    font-family: 'Raleway', sans-serif;
     letter-spacing: .1rem;
     border-radius: 4px;
     font-size: 1.5vw;
